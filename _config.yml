@@ -1,0 +1,23 @@
+title: "Bibliotheca Occulta"
+description: "Occult and Historical Notes"
+url: ""
+baseurl: ""
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+timezone: Europe/Athens
+collections:
+  people:
+    output: true
+  places:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      category: fieldnote
+      status: fragment
+exclude:
+  - README.md

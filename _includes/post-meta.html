@@ -1,0 +1,7 @@
+<span class="pubdate">Published: <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
+{% if page.diegetic_date %}&nbsp;|&nbsp;<span class="diegetic">In-universe: {{ page.diegetic_date }}</span>{% endif %}
+{% if page.source %}&nbsp;|&nbsp;<span class="source">Source: {{ page.source }}</span>{% endif %}
+{% if page.provenance %}&nbsp;|&nbsp;<span class="prov">Provenance: {{ page.provenance }}</span>{% endif %}
+{% if page.location %}&nbsp;|&nbsp;<span class="loc">Location: {{ page.location }}</span>{% endif %}
+{% if page.status %}&nbsp;|&nbsp;<span class="status">Status: {{ page.status }}</span>{% endif %}
+{% if page.transcriber %}&nbsp;|&nbsp;<span class="trans">Transcriber: {{ page.transcriber }}</span>{% endif %}
