@@ -9,8 +9,8 @@ provenance: "Estate"
 location: "Trieste"
 status: fragment
 transcriber: "The Curator"
-excerpt: "Secretum litterae clavis mysterium sepher folium fasciculus tenebrae annulus discipulus noctis serpens liber."
+excerpt: "Ineffabilis magister tenebrae secretum liber noctis concordantia fragmentum litterae arcanum porta annulus."
 ---
 ![Brass seal impression](/scans/sable_seal.jpg)
 
-Concordantia noctis fasciculus fragmentum codex liber magister sodalitas. Sodalitas lex crux crux noctis nigrans ordo atrium. Nigrans nigrans occultus clavis secretum noctis hieratica umbilicus. Serpens glossa lex mysterium serpens ineffabilis lex atrium rota hieratica sigillum glossa folium. Concordantia discipulus ordo lex fasciculus ordo discipulus tenebrae serpens discipulus hermeticus annulus mysterium. Discipulus umbilicus porta litterae serpens ineffabilis serpens fasciculus folium concordantia.
+Litterae ineffabilis magister secretum discipulus rubrica magister fragmentum. Folium liber liber tenebrae umbrae marginalia ineffabilis rubrica glossa litterae. Sepher annulus hieratica discipulus annulus ineffabilis sodalitas vellum lex hermeticus concordantia. Codex rubrica ineffabilis noctis secretum lex rubrica glossa sepher fasciculus fasciculus folium glossa. Glossa magister arcanum annulus discipulus annulus marginalia crux rota. Litterae crux magister liber sepher vellum occultus glossa serpens hermeticus umbrae fragmentum.

@@ -1,24 +1,24 @@
 
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&family=EB+Garamond:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;700&family=Amiri:wght@400;700&family=Raleway:wght@400&display=swap');
 
 :root{
-  --ink:#e2dfd5;
-  --ink-deep:#f2ede0;
-  --bg:#1b1b1b;
-  --oxblood:#a68c3d;
-  --gold:#a68c3d;
-  --inkblue:#d4c9b0;
-  --muted:#aaa;
+  --ink:#252220;
+  --ink-deep:#1e1a18;
+  --bg:#faf7f0;
+  --oxblood:#224b5e;
+  --gold:#a8702d;
+  --inkblue:#224b5e;
+  --muted:#5a524a;
   --maxw:960px; --sidebar:260px; --content:640px;
 }
 html,body{margin:0;padding:0; background:var(--bg) url('../img/paper.jpg') repeat; color:var(--ink);
-  font-family:'EB Garamond', Georgia, serif; line-height:1.65; font-size:16px;}
-a{ color:var(--gold); text-decoration:none; border-bottom:1px solid rgba(34,48,63,0.2);}
+  font-family:Amiri, Georgia, serif; line-height:1.65; font-size:16px;}
+a{ color:var(--inkblue); text-decoration:none; border-bottom:1px solid rgba(34,48,63,0.2);}
 a:hover{ border-bottom-color: rgba(34,48,63,0.6);}
 #wrap{ max-width:var(--maxw); margin:0 auto; padding:0 10px;}
 #site-header{ padding:24px 0 12px; border-bottom:1px solid rgba(0,0,0,0.1);}
-.site-title{ font-family:UnifrakturCook, serif; font-size:36px; letter-spacing:0.5px; margin:0; text-transform:uppercase;}
+.site-title{ font-family:Scheherazade New, serif; font-size:36px; letter-spacing:0.5px; margin:0; text-transform:uppercase;}
 .site-title a{ color:var(--ink-deep); border:0;}
 .site-sub{ margin-top:4px; color:var(--muted); font-style:italic;}
 #main{ display:flex; gap:20px; padding-top:16px;}
@@ -26,22 +26,22 @@ a:hover{ border-bottom-color: rgba(34,48,63,0.6);}
 #content{ width:var(--content); min-height:60vh;}
 .nav ul{ list-style:none; margin:0; padding:0;}
 .nav li{ margin:6px 0;}
-.nav .box{ margin-top:18px; padding:10px; background:rgba(30,30,30,0.45); border:1px solid rgba(0,0,0,0.08);}
-.smallprint{ font-size:13px; color:#bbb; }
+.nav .box{ margin-top:18px; padding:10px; background:rgba(255,255,255,0.45); border:1px solid rgba(0,0,0,0.08);}
+.smallprint{ font-size:13px; color:#444; }
 .sigil{ width:100%; height:80px; background:url('../img/sigil.png') center/contain no-repeat; opacity:0.12; margin-bottom:10px;}
-.post-title, .page-title{ font-family:UnifrakturCook, serif; font-weight:400; font-size:32px; margin:0 0 8px;}
-.post-meta{ color:#bbb; font-size:14px; margin-bottom:12px; border-top:1px dotted rgba(0,0,0,0.2); border-bottom:1px dotted rgba(0,0,0,0.2); padding:6px 0;}
-.post-body p:first-child::first-letter{ font-size:40px; float:left; line-height:1; padding-right:6px; font-family:Crimson Text, serif;}
+.post-title, .page-title{ font-family:Scheherazade New, serif; font-weight:400; font-size:32px; margin:0 0 8px;}
+.post-meta{ color:#555; font-size:14px; margin-bottom:12px; border-top:1px dotted rgba(0,0,0,0.2); border-bottom:1px dotted rgba(0,0,0,0.2); padding:6px 0;}
+.post-body p:first-child::first-letter{ font-size:40px; float:left; line-height:1; padding-right:6px; font-family:Raleway, serif;}
 .post-item h2{ font-size:22px; margin-bottom:4px;}
-.intro .lede{ font-family:Crimson Text, serif; font-style:italic;}
+.intro .lede{ font-family:Raleway, serif; font-style:italic;}
 .archive .month{ margin-bottom:14px;}
 .older{ text-align:right; margin:20px 0 40px;}
-#site-footer{ margin:24px 0 40px; color:#bbb; font-size:14px; border-top:1px solid rgba(0,0,0,0.1); padding-top:12px;}
+#site-footer{ margin:24px 0 40px; color:#555; font-size:14px; border-top:1px solid rgba(0,0,0,0.1); padding-top:12px;}
 .footer-inner a{ color:var(--oxblood);}
 img{ max-width:100%; height:auto;}
 blockquote{ margin:12px 18px; padding-left:12px; border-left:3px solid rgba(0,0,0,0.2); font-style:italic;}
 .tag-cloud{ display:flex; flex-wrap:wrap; gap:8px;}
-.tagcloud-item{ padding:2px 6px; border:1px solid rgba(0,0,0,0.2); background:rgba(255,255,255,0.15);}
+.tagcloud-item{ padding:2px 6px; border:1px solid rgba(0,0,0,0.2); background:rgba(255,255,255,0.4);}
 
 /* Lightbox */
 

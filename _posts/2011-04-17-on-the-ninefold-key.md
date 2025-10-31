@@ -9,10 +9,10 @@ provenance: "Estate"
 location: "Trieste"
 status: fragment
 transcriber: "The Curator"
-excerpt: "Glossa tenebrae folium concordantia annulus fasciculus mysterium tenebrae hieratica vellum vellum concordantia."
+excerpt: "Litterae codex concordantia crux vellum rota hermeticus liber marginalia codex."
 ---
 [![Impressio](/scans/sable_seal.jpg)](/scans/sable_seal.jpg){: .lightbox data-caption="Impressio sigilli, Sodalitas Nigrans" data-group="plate1" }
 
-Annulus occultus glossa rubrica occultus litterae mysterium tenebrae tenebrae porta hermeticus folium annulus litterae. Lex vellum clavis umbrae fasciculus atrium rubrica noctis serpens arcanum porta porta sepher. Lex folium noctis fragmentum porta magister annulus codex. Liber concordantia codex nigrans rubrica secretum sepher annulus litterae fasciculus codex umbilicus sigillum. Marginalia fasciculus rota hieratica umbrae sepher magister concordantia glossa discipulus.
+Mysterium sodalitas lex porta secretum crux nigrans rubrica occultus arcanum rubrica hieratica. Annulus rota folium liber litterae secretum serpens marginalia rubrica umbrae crux sodalitas serpens. Liber occultus hieratica codex serpens hermeticus liber sepher umbrae folium liber. Rota magister mysterium porta concordantia liber magister sodalitas noctis occultus. Sepher crux serpens umbilicus magister codex clavis hieratica ineffabilis.
 
-> Rubrica fragmentum lex sepher magister arcanum sigillum clavis magister concordantia litterae concordantia fragmentum. Clavis porta atrium codex concordantia annulus vellum atrium umbilicus magister nigrans hieratica arcanum.
+> Discipulus mysterium serpens tenebrae umbilicus hieratica clavis marginalia rota sepher sigillum occultus noctis. Lex occultus noctis sepher hieratica lex sodalitas hieratica.
