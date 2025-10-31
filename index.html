@@ -1,0 +1,18 @@
+---
+layout: base
+title: "Home"
+---
+<div class="intro"><p class="lede">Leaves from scattered codices.</p></div>
+<div class="post-list">
+  {% for post in site.posts limit:10 %}
+  <div class="post-item">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <div class="meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+      {% if post.diegetic_date %} · <span>{{ post.diegetic_date }}</span>{% endif %}
+    </div>
+    <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+  </div>
+  {% endfor %}
+</div>
+<p class="older"><a href="{{ '/archive/' | relative_url }}">Older &rarr;</a></p>
